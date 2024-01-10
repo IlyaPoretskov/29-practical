@@ -1,0 +1,5 @@
+C:/Users/Илья/Desktop/Skb 27 - 40/29-practical/Superpes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/29-practical/Superpes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/29-practical/Superpes/cmake-build-debug/source/CMakeFiles/Superpes.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/29-practical/Superpes/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/29-practical/Superpes/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir
